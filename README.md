@@ -51,11 +51,18 @@ API, требующий авторизации:
   http://localhost:8080/cart/
   http://localhost:8080/products/
   
-# Xenon test:
+# Xenon test
 xenon —max-absolute B —max-modules A —max-average A .
 
 # pipenv check
 pipenv check
+
+# settings check
+python manage.py check --deploy --fail-level WARNING
+
+# Heroku auto-deploing
+https://pavelbutusov-exam.herokuapp.com/
+
 
 
 
