@@ -1,0 +1,17 @@
+{
+  "root_app/tests/test_cart.py::test_add_item_to_cart": true,
+  "root_app/tests/test_cart.py::test_login_with_nonempty_cart": true,
+  "root_app/tests/test_cart.py::test_show_cart_empty": true,
+  "root_app/tests/test_cart.py::test_show_cart_with_items": true,
+  "root_app/tests/test_order.py::test_create_new_order": true,
+  "root_app/tests/test_order.py::test_create_new_order_unauthorized": true,
+  "root_app/tests/test_profile.py::test_create_new_profile": true,
+  "root_app/tests/test_profile.py::test_current_profile": true,
+  "root_app/tests/test_profile.py::test_current_profile_history": true,
+  "root_app/tests/test_profile.py::test_login": true,
+  "root_app/tests/test_profile.py::test_login_bad_credentials": true,
+  "root_app/tests/test_shop.py::test_search_by_name": true,
+  "root_app/tests/test_shop.py::test_search_by_name_category_price": true,
+  "root_app/tests/test_shop.py::test_show_categories": true,
+  "root_app/tests/test_shop.py::test_show_products_by_category": true
+}
