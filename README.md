@@ -1,7 +1,11 @@
 # shop
 
-[![Build Status](https://travis-ci.org/pavelbutusov/shop.svg?branch=master)](https://travis-ci.org/PavelButusov/shop)
+[![Build Status](https://travis-ci.org/pavelbutusov/shop.svg?branch=master)](https://travis-ci.org/pavelbutusov/shop)
 [![Coverage Status](https://coveralls.io/repos/github/pavelbutusov/shop/badge.svg?branch=master)](https://coveralls.io/github/pavelbutusov/shop?branch=master)
+# Github
+https://github.com/PavelButusov/shop  <-- ссылка на гитхаб(проект экзамена)
+
+https://github.com/PavelButusov/Shop_case <-- ссылка на гитхаб(то, что делал для тренировки к экзамену с тестами, визуальной частью)
 
 # Скачивание
 ```
@@ -16,7 +20,7 @@ $ pipenv shell
 $ ./manage.py makemigrations <-- генерируем правила инициализации базы данных
 $ ./manage.py makemigrations root_app
 $ ./manage.py migrate <-- инициализируем базы данных
-$ ./manage.py createsuperuser <-- создаём учётку суперпользователя
+$ ./manage.py createsuperuser <-- создаём учётку суперпользователя (если уже есть, то: admin q1w2e3r4)
 $ ./manage.py runserver 8080 <-- запускаем сервер
 ```
 
@@ -46,5 +50,6 @@ API, требующий авторизации:
   http://localhost:8080/orders/
   http://localhost:8080/cart/
   http://localhost:8080/products/
+
 
 
