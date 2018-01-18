@@ -1,6 +1,6 @@
-# Shop
+# SHOP
 
-# TRAVIS
+# Travis
 [![Build Status](https://travis-ci.org/PavelButusov/shop.svg?branch=start)](https://travis-ci.org/PavelButusov/shop)
 
 # Github
