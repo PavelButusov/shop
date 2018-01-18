@@ -1,6 +1,6 @@
 # shop
 
-[![Build Status](https://travis-ci.org/pavelbutusov/shop.svg?branch=start)](https://travis-ci.org/pavelbutusov/shop)
+[![Build Status](https://travis-ci.org/PavelButusov/shop.svg?branch=start)](https://travis-ci.org/PavelButusov/shop)
 [![Coverage Status](https://coveralls.io/repos/github/pavelbutusov/shop/badge.svg?branch=master)](https://coveralls.io/github/pavelbutusov/shop?branch=master)
 # Github
 https://github.com/PavelButusov/shop  <-- ссылка на гитхаб(проект экзамена)
