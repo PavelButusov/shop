@@ -50,6 +50,12 @@ API, требующий авторизации:
   http://localhost:8080/orders/
   http://localhost:8080/cart/
   http://localhost:8080/products/
+  
+# Xenon test:
+xenon —max-absolute B —max-modules A —max-average A .
+
+# pipenv check
+pipenv check
 
 
 
