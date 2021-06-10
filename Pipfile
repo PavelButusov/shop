@@ -17,7 +17,7 @@ python_version = '3.6'
 [packages]
 
 attrs = "==17.3.0"
-Django = "==1.11.8"
+Django = "==2.2.24"
 djangorestframework = "==3.7.7"
 djangorestframework-jwt = "==1.11.0"
 pluggy = "==0.6.0"
